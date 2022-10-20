@@ -1,4 +1,4 @@
-# RadialMenu by DevSherman twitter: https://twitter.com/sherman_dev
+# RadialMenu by DevSherman
 RadialMenu in Unity3D (configurable)
 
 ![radialMenu](https://user-images.githubusercontent.com/10392153/196837216-f9354393-4780-4d28-b2fb-223b988ba78d.png)
