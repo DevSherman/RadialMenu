@@ -8,7 +8,7 @@ This the basic setup, we can create items and category via the contextmenu
 ![3](https://user-images.githubusercontent.com/10392153/196838608-ceff4b1f-d949-4501-95f0-b89587fc7a54.png)
 
 And this is the configuration of one category, can it content an another category or simple a list of items (its rare a combination of both)
-Categories need a backItem and backCategory to return as the image. The MainMenu (fisrt category displayed) does not need it.
+Categories need a backItem and backCategory to return as the image. The MainMenu (first category displayed) does not need it.
 ![2](https://user-images.githubusercontent.com/10392153/196838912-74e6778b-8889-45cc-9291-0005ca871b66.png)
 
 And the items is customizable, only content a prefab
